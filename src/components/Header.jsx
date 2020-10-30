@@ -3,6 +3,7 @@ import logo from '../assets/images/logo.svg';
 import hbg from '../assets/images/icon-hamburger.svg'; 
 
 function Header () {
+    let url="";
     return (
         <header>
             <div className="container">
@@ -13,11 +14,11 @@ function Header () {
                     <button class="btn header-btn">Request Invite</button>
                     <nav class="nav hide-on-sm">
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Careers</a></li>
+                        <li><a href={url}>Home</a></li>
+                        <li><a href={url}>About</a></li>
+                        <li><a href={url}>Contact</a></li>
+                        <li><a href={url}>Blog</a></li>
+                        <li><a href={url}>Careers</a></li>
                     </ul>
                     </nav>
                     <div className="toggle">
