@@ -2,7 +2,7 @@
 
 [Easybank landing page whit React Preview](https://easylandingreact.netlify.app/)
 
-![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
+[Design preview for the Easybank landing page coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/v1583427671/Challenges/r57dwegyobrqigxhsj36.jpg)
 
 ## Welcome! 👋
 
