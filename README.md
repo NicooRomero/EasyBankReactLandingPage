@@ -1,5 +1,7 @@
 # Frontend Mentor - Easybank landing page
 
+[Easybank landing page whit React Preview](https://easylandingreact.netlify.app/)
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
